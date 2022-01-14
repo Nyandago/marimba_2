@@ -67,7 +67,7 @@ class _MarimbaState extends State<Marimba> {
           ),
           Expanded(child: ElevatedButton(
             style: ElevatedButton.styleFrom(
-              primary: Colors.green, // background
+              primary: Colors.lightGreenAccent, // background
               onPrimary: Colors.white, // foreground
             ),
             onPressed: () { },
