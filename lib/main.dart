@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Marimba App'),
-          backgroundColor: Colors.black,
+          backgroundColor: Colors.brown,
         ),
         body: Marimba(),
       ),
