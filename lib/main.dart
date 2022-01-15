@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Marimba'),
+          title: Text('Marimba App'),
           backgroundColor: Colors.black,
         ),
         body: Marimba(),
